@@ -6,3 +6,4 @@ menu antipasti
  - carne salada
  - cocktail di gamberi
  - tramezzini assortiti
+ - rane fritte
